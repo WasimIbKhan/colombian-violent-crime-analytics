@@ -1,0 +1,800 @@
+lat,lon,data_id,event_date,event_type,sub_event_type,actor1,actor2,admin1,fatalities
+1.4792,-75.4364,8643511,12-Nov-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Caqueta,1
+7.8939,-72.5078,8643845,12-Nov-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Norte de Santander,0
+6.2246,-77.4034,8643619,11-Nov-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Choco,1
+3.0161,-76.4854,8643723,11-Nov-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,0
+6.2246,-77.4034,8643501,10-Nov-21,Battles,Armed clash,Gulf Clan,Police Forces of Colombia (2018-),Choco,2
+2.3302,-72.6272,8643510,10-Nov-21,Violence against civilians,Attack,FARC Dissident,Civilians (Colombia),Guaviare,3
+8.5768,-73.0948,8643498,09-Nov-21,Violence against civilians,Abduction/forced disappearance,FARC Dissident - 33rd Front,Civilians (Colombia),Norte de Santander,0
+4.2121,-76.1556,8643500,09-Nov-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Mobile Column,Valle del Cauca,1
+8.5768,-73.0948,8643617,09-Nov-21,Battles,Armed clash,FARC Dissident,Military Forces of Colombia (2018-),Norte de Santander,0
+2.7981,-76.4844,8643722,09-Nov-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,0
+7.9738,-75.4168,8643509,08-Nov-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cordoba,1
+8.255,-76.1507,8643618,08-Nov-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cordoba,1
+7.3139,-75.8252,8643499,07-Nov-21,Battles,Armed clash,Gulf Clan,Military Forces of Colombia (2018-),Antioquia,4
+7.1653,-75.4392,8643513,07-Nov-21,Explosions/Remote violence,Remote explosive/landmine/IED,Gulf Clan,Civilians (Colombia),Antioquia,1
+1.329,-75.8786,8643507,06-Nov-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Caqueta,1
+4.3769,-74.6703,8643508,06-Nov-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cundinamarca,3
+3.1738,-76.2613,8627695,05-Nov-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,2
+0.4793,-75.4262,8643506,05-Nov-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Putumayo,3
+3.8758,-77.0117,8643565,05-Nov-21,Violence against civilians,Abduction/forced disappearance,La Local Gang,Civilians (Colombia),Valle del Cauca,0
+7.1653,-75.4392,8643638,05-Nov-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Antioquia,3
+7.8939,-72.5078,8643842,05-Nov-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+8.2475,-73.3558,8627584,04-Nov-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Norte de Santander,0
+2.2568,-77.2495,8627672,04-Nov-21,Battles,Armed clash,ELN,FARC Dissident,Cauca,0
+0.6638,-76.873,8643497,04-Nov-21,Violence against civilians,Attack,CDF,Civilians (Colombia),Putumayo,3
+5.88,-71.8909,8627582,03-Nov-21,Explosions/Remote violence,Remote explosive/landmine/IED,FARC Dissident - 28th Front,Military Forces of Colombia (2018-),Casanare,4
+8.6395,-72.7359,8627583,03-Nov-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Norte de Santander,0
+7.9382,-72.6047,8643843,02-Nov-21,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,0
+6.9639,-75.4188,8627578,01-Nov-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - 36th Front,Antioquia,2
+2.3845,-77.2157,8627579,01-Nov-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,0
+3.0272,-76.5196,8627580,01-Nov-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,2
+2.4511,-76.8118,8627729,01-Nov-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,0
+3.1738,-76.2613,8627577,31-Oct-21,Violence against civilians,Attack,Military Forces of Colombia (2018-),Civilians (Colombia),Cauca,0
+7.1653,-75.4392,8627576,30-Oct-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,1
+2.5729,-77.888,8627682,30-Oct-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Franco Benavides Mobile Column,Cauca,0
+2.3845,-77.2157,8627732,30-Oct-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Carlos Patino Front,Cauca,2
+8.5702,-73.4684,8627575,29-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,3
+7.7872,-75.5331,8612587,28-Oct-21,Battles,Armed clash,Gulf Clan,Police Forces of Colombia (2018-),Cordoba,0
+11.0067,-74.2413,8612582,27-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Magdalena,0
+8.4082,-75.5832,8612586,27-Oct-21,Battles,Armed clash,Gulf Clan,Police Forces of Colombia (2018-),Cordoba,1
+3.2531,-76.2289,8643719,27-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+3.0161,-76.4854,8612580,26-Oct-21,Battles,Armed clash,FARC Dissident - Dagoberto Ramos,Police Forces of Colombia (2018-),Cauca,0
+11.3783,-72.2419,8612581,26-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),La Guajira,3
+7.1716,-75.7647,8612599,26-Oct-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Antioquia,1
+0.505,-76.4973,8627724,26-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Putumayo,0
+8.0891,-76.7292,8612583,25-Oct-21,Battles,Armed clash,Gulf Clan,Military Forces of Colombia (2018-),Antioquia,3
+8.5768,-73.0948,8612594,25-Oct-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Norte de Santander,0
+5.2332,-75.7861,8612984,25-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Caldas,1
+3.1145,-76.6272,8643505,25-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+6.4494,-71.7586,8612585,24-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Arauca,0
+11.2294,-74.1909,8612598,24-Oct-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Magdalena,0
+2.3845,-77.2157,8612801,24-Oct-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Carlos Patino Front,Cauca,0
+3.9,-76.3019,8612579,23-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,3
+10.7316,-74.2163,8612704,23-Oct-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Magdalena,0
+2.7546,-76.6292,8643495,23-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+4.2507,-76.9693,8604849,22-Oct-21,Battles,Armed clash,Military Forces of Colombia (2018-),ELN,Choco,1
+8.0891,-76.7292,8604972,22-Oct-21,Battles,Armed clash,Gulf Clan,Police Forces of Colombia (2018-),Antioquia,1
+8.0891,-76.7292,8612595,22-Oct-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Antioquia,1
+2.6233,-76.5709,8604845,21-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+2.7422,-76.7225,8604848,21-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,2
+7.1149,-75.5481,8604970,21-Oct-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Antioquia,1
+2.3845,-77.2157,8604831,20-Oct-21,Battles,Armed clash,FARC Dissident - Carlos Patino Front,Military Forces of Colombia (2018-),Cauca,10
+7.8939,-72.5078,8605133,20-Oct-21,Explosions/Remote violence,Remote explosive/landmine/IED,ELN,Unknown,Norte de Santander,0
+7.8475,-72.4701,8605134,20-Oct-21,Explosions/Remote violence,Remote explosive/landmine/IED,ELN,Unknown,Norte de Santander,0
+9.5639,-73.3342,8612838,20-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cesar,0
+7.8939,-72.5078,8604841,19-Oct-21,Explosions/Remote violence,Remote explosive/landmine/IED,ELN,Military Forces of Colombia (2018-),Norte de Santander,0
+8.2858,-72.9633,8604842,19-Oct-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+3.4376,-76.519,8604843,19-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+3.8673,-67.9235,8604850,19-Oct-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Guainia,1
+7.7614,-73.393,8605025,19-Oct-21,Violence against civilians,Attack,Private Security Forces (Colombia),Civilians (Colombia),Cesar,0
+6.2949,-75.0284,8627572,19-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,4
+2.6233,-76.5709,8643504,19-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+2.3845,-77.2157,8604826,18-Oct-21,Violence against civilians,Attack,FARC Dissident - Carlos Patino Front,Civilians (Colombia),Cauca,1
+8.3217,-73.146,8604836,18-Oct-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Norte de Santander,0
+2.0639,-76.8215,8604837,18-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+3.4376,-76.519,8604838,18-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+7.021,-75.9103,8604847,18-Oct-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Antioquia,4
+2.7981,-76.4844,8605019,18-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,2
+7.8475,-72.4701,8605132,18-Oct-21,Violence against civilians,Attack,ELN,Civilians (Venezuela),Norte de Santander,1
+9.5639,-73.3342,8612835,18-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cesar,0
+2.3845,-77.2157,8604830,17-Oct-21,Battles,Armed clash,FARC Dissident - Carlos Patino Front,FARC Dissident - Second Marquetalia,Cauca,2
+8.2475,-73.3558,8604832,17-Oct-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+8.3148,-72.4863,8604846,17-Oct-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Norte de Santander,1
+2.1198,-74.7673,8604962,17-Oct-21,Battles,Armed clash,FARC Dissident - Gentil Duarte Front,Military Forces of Colombia (2018-),Caqueta,1
+2.2568,-77.2495,8605022,17-Oct-21,Violence against civilians,Attack,FARC Dissident - Carlos Patino Front,Civilians (Colombia),Cauca,1
+8.2475,-73.3558,8605026,17-Oct-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+5.7465,-75.9771,8627571,17-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,5
+4.2507,-76.9693,8604825,16-Oct-21,Violence against civilians,Attack,ELN,Civilians (Colombia),Choco,1
+1.6179,-75.6086,8604834,16-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Caqueta,1
+4.4825,-74.162,8612784,16-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),"Bogota, D.C.",0
+5.516,-76.9744,8604828,15-Oct-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Civilians (Colombia),Choco,1
+2.2568,-77.2495,8643694,15-Oct-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Carlos Patino Front,Cauca,0
+7.065,-73.85,8598324,15-Oct-21,Explosions/Remote violence,Remote explosive/landmine/IED,ELN,Unknown,Santander,0
+8.6395,-72.7359,8598495,15-Oct-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Norte de Santander,1
+8.6395,-72.7359,8598323,14-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+3.8758,-77.0117,8598493,14-Oct-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Valle del Cauca,0
+3.015,-76.6427,8604824,14-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,2
+0.4793,-75.4262,8598320,13-Oct-21,Battles,Armed clash,FARC Dissident - Carolina Ramirez Front,CDF,Putumayo,1
+7.9774,-75.1983,8598316,12-Oct-21,Battles,Armed clash,Police Forces of Colombia (2018-),Unidentified Armed Group (Colombia),Antioquia,1
+7.027,-71.4268,8598317,12-Oct-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Arauca,1
+3.2333,-76.4173,8598494,12-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+2.0422,-77.1365,8598312,11-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+2.5109,-76.2887,8598313,11-Oct-21,Violence against civilians,Attack,FARC Dissident,Civilians (Colombia),Cauca,1
+2.1782,-73.7871,8598314,11-Oct-21,Violence against civilians,Attack,FARC Dissident - Gentil Duarte Front,Civilians (Colombia),Meta,0
+9.33,-74.4542,8598311,10-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Magdalena,3
+8.4026,-73.2071,8604823,10-Oct-21,Battles,Armed clash,ELN,Police Forces of Colombia (2018-),Norte de Santander,2
+10.9799,-74.8013,8627731,10-Oct-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Atlantico,0
+2.9557,-76.5249,8598309,09-Oct-21,Battles,Armed clash,FARC Dissident - Dagoberto Ramos,Police Forces of Colombia (2018-),Cauca,2
+8.6395,-72.7359,8587395,08-Oct-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Norte de Santander,0
+8.5768,-73.0948,8598305,08-Oct-21,Violence against civilians,Attack,FARC Dissident - 33rd Front,Civilians (Venezuela),Norte de Santander,2
+8.2769,-76.3806,8598443,08-Oct-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Antioquia,0
+4.7949,-75.992,8598499,08-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+8.14,-72.57,8586972,07-Oct-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Norte de Santander,0
+3.8758,-77.0117,8598308,07-Oct-21,Battles,Armed clash,ELN,FARC Dissident - Jaime Martinez,Valle del Cauca,5
+3.0161,-76.4854,8587180,06-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+7.3491,-73.8993,8643503,06-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Santander,1
+4.4725,-74.1264,8586967,05-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),"Bogota, D.C.",1
+0.6848,-76.6048,8586968,05-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Putumayo,1
+1.9314,-77.3594,8598307,05-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Narino,1
+2.9259,-76.5935,8586963,04-Oct-21,Violence against civilians,Attack,FARC Dissident - Jaime Martinez,Civilians (Colombia),Cauca,1
+3.0341,-76.4085,8586964,04-Oct-21,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,0
+8.4364,-73.2874,8586966,04-Oct-21,Battles,Armed clash,ELN,Military Forces of Colombia (2018-),Norte de Santander,1
+3.1738,-76.2613,8587178,04-Oct-21,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,0
+8.556,-74.2631,8587187,04-Oct-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Gulf Clan,Bolivar,1
+2.2568,-77.2495,8586961,03-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+1.3913,-78.5193,8587147,03-Oct-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Second Marquetalia,Narino,1
+6.4494,-71.7586,8586959,02-Oct-21,Explosions/Remote violence,Remote explosive/landmine/IED,FARC Dissident - 10th Front,Military Forces of Colombia (2018-),Arauca,1
+4.0853,-76.1977,8586960,02-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+7.0747,-75.1483,8627570,02-Oct-21,Violence against civilians,Attack,FARC Dissident - 36th Front,Civilians (Colombia),Antioquia,4
+11.0067,-74.2413,8606687,01-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Magdalena,1
+2.9515,-76.2711,8575493,01-Oct-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,0
+1.9089,-75.1575,8575489,30-Sep-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Second Marquetalia,Caqueta,1
+2.2568,-77.2495,8575490,30-Sep-21,Battles,Armed clash,FARC Dissident - Carlos Patino Front,Unidentified Armed Group (Colombia),Cauca,2
+1.8071,-78.7639,8586952,30-Sep-21,Explosions/Remote violence,Remote explosive/landmine/IED,FARC Dissident - 30th Front,Civilians (Colombia),Narino,1
+8.2763,-73.8681,8586955,30-Sep-21,Violence against civilians,Attack,Gulf Clan,Civilians (Colombia),Bolivar,1
+-0.1919,-74.7825,8606686,30-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Putumayo,1
+1.8071,-78.7639,8643699,30-Sep-21,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Colombia),Civilians (Colombia),Narino,0
+0.3069,-76.0128,8606685,29-Sep-21,Violence against civilians,Attack,CDF,Civilians (Colombia),Putumayo,1
+8.2099,-72.7406,8575488,29-Sep-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Norte de Santander,1
+5.3276,-72.3969,8575675,29-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Casanare,0
+8.6395,-72.7359,8575823,29-Sep-21,Battles,Armed clash,Military Forces of Colombia (2018-),ELN,Norte de Santander,1
+2.2516,-69.9252,8575473,27-Sep-21,Explosions/Remote violence,Air/drone strike,Military Forces of Colombia (2018-),FARC Dissident,Guainia,10
+2.1782,-73.7871,8575474,27-Sep-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Meta,1
+8.4905,-72.6397,8575475,27-Sep-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Norte de Santander,0
+10.7696,-74.024,8575657,27-Sep-21,Violence against civilians,Sexual violence,Kogui Indigenous Militia (Colombia),Civilians (Colombia),Magdalena,0
+0.5935,-76.5661,8575472,26-Sep-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Putumayo,1
+8.2763,-73.8681,8586954,26-Sep-21,Violence against civilians,Abduction/forced disappearance,Gulf Clan,Civilians (Colombia),Bolivar,0
+1.3913,-78.5193,8627569,26-Sep-21,Violence against civilians,Attack,FARC Dissident - Urias Rondon,Civilians (Colombia),Narino,5
+5.1539,-76.6852,8575469,25-Sep-21,Battles,Armed clash,ELN,Gulf Clan,Choco,0
+3.6569,-76.6886,8575468,24-Sep-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Valle del Cauca,1
+6.4494,-71.7586,8565632,23-Sep-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Arauca,0
+8.2763,-73.8681,8565641,23-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,1
+2.7776,-76.3243,8565642,23-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+7.1163,-73.1326,8565790,22-Sep-21,Violence against civilians,Attack,Military Forces of Colombia (2018-),Civilians (Colombia),Santander,0
+7.7809,-75.7796,8565631,21-Sep-21,Explosions/Remote violence,Grenade,Gulf Clan,Military Forces of Colombia (2018-),Cordoba,5
+2.6649,-76.703,8565628,20-Sep-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Cauca,0
+2.9811,-76.7331,8565629,20-Sep-21,Battles,Armed clash,FARC Dissident - Jaime Martinez,Military Forces of Colombia (2018-),Cauca,0
+6.6453,-75.4614,8565638,20-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,1
+3.0493,-76.3761,8565639,20-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+7.0364,-76.9522,8565640,20-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Choco,1
+8.6395,-72.7359,8565741,20-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+6.4494,-71.7586,8565789,20-Sep-21,Violence against civilians,Attack,Military Forces of Colombia (2018-),Civilians (Colombia),Arauca,1
+4.4537,-75.7865,8575466,20-Sep-21,Explosions/Remote violence,Remote explosive/landmine/IED,FARC Dissident - 33rd Front,Police Forces of Colombia (2018-),Quindio,0
+5.6922,-76.658,8565624,19-Sep-21,Violence against civilians,Attack,Gulf Clan,Civilians (Colombia),Choco,1
+1.8071,-78.7639,8565636,19-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Narino,2
+4.0853,-76.1977,8565637,19-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+2.7981,-76.4844,8565634,18-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+4.0853,-76.1977,8565635,18-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,3
+0.9629,-76.4085,8565694,18-Sep-21,Violence against civilians,Attack,Police Forces of Colombia (2018-) DIRAN,Civilians (Colombia),Putumayo,0
+8.6659,-73.8223,8546203,17-Sep-21,Violence against civilians,Attack,Military Forces of Colombia (2018-),Civilians (Colombia),Bolivar,1
+2.7981,-76.4844,8565620,17-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+4.2507,-76.9693,8565621,17-Sep-21,Battles,Armed clash,Military Forces of Colombia (2018-),ELN,Choco,7
+2.1198,-74.7673,8546200,16-Sep-21,Battles,Armed clash,FARC Dissident,Police Forces of Colombia (2018-),Caqueta,2
+0.505,-76.4973,8546243,16-Sep-21,Violence against civilians,Attack,Police Forces of Colombia (2018-) DIRAN,Civilians (Colombia),Putumayo,0
+8.5114,-77.2801,8565619,16-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Choco,1
+8.5768,-73.0948,8643496,15-Sep-21,Violence against civilians,Abduction/forced disappearance,ELN,Civilians (Colombia),Norte de Santander,0
+2.7981,-76.4844,8546198,15-Sep-21,Violence against civilians,Abduction/forced disappearance,FARC Dissident - Dagoberto Ramos,Civilians (Colombia),Cauca,0
+8.3217,-73.146,8546196,14-Sep-21,Battles,Armed clash,FARC Dissident - 33rd Front,Police Forces of Colombia (2018-),Norte de Santander,0
+3.7424,-76.9659,8546197,14-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+10.8563,-74.7742,8546318,14-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Atlantico,1
+0.0542,-75.6505,8575575,14-Sep-21,Battles,Armed clash,CDF,FARC Dissident - Carolina Ramirez Front,Putumayo,3
+7.2867,-75.7223,8546194,13-Sep-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Antioquia,7
+3.2195,-75.219,8546341,13-Sep-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Civilians (Colombia),Huila,0
+5.9272,-75.6707,8565788,12-Sep-21,Violence against civilians,Sexual violence,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,0
+7.019,-71.6103,8546191,11-Sep-21,Battles,Armed clash,ELN,Military Forces of Colombia (2018-),Arauca,5
+2.5664,-72.639,8546192,11-Sep-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - 1st Front,Guaviare,3
+5.3276,-72.3969,8533944,10-Sep-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Civilians (Colombia),Casanare,0
+3.5276,-74.0234,8546190,10-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Meta,1
+7.8939,-72.5078,8533769,09-Sep-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Norte de Santander,1
+8.556,-74.2631,8533957,09-Sep-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Bolivar,1
+3.3239,-76.2345,8533761,07-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+2.2568,-77.2495,8533952,07-Sep-21,Battles,Armed clash,FARC Dissident - Carlos Patino Front,ELN,Cauca,0
+6.4494,-71.7586,8565618,07-Sep-21,Battles,Armed clash,ELN,Military Forces of Colombia (2018-),Arauca,0
+6.7776,-76.132,8533756,06-Sep-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Antioquia,2
+2.7981,-76.4844,8533757,06-Sep-21,Violence against civilians,Attack,FARC Dissident - Dagoberto Ramos,Civilians (Colombia),Cauca,0
+6.9539,-71.8723,8533906,06-Sep-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Arauca,0
+2.2568,-77.2495,8533925,06-Sep-21,Battles,Armed clash,FARC Dissident - Carlos Patino Front,ELN,Cauca,0
+6.7971,-71.7686,8533941,06-Sep-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Private Security Forces (Colombia),Arauca,0
+8.4026,-73.2071,8534560,06-Sep-21,Battles,Armed clash,Military Forces of Colombia (2018-),Unidentified Armed Group (Colombia),Norte de Santander,0
+7.9085,-72.4789,8550787,06-Sep-21,Violence against civilians,Attack,ELN,Civilians (Colombia),Norte de Santander,1
+2.2568,-77.2495,8533753,05-Sep-21,Battles,Armed clash,FARC Dissident - Carlos Patino Front,ELN,Cauca,0
+2.7981,-76.4844,8533754,05-Sep-21,Violence against civilians,Attack,FARC Dissident - Dagoberto Ramos,Civilians (Colombia),Cauca,0
+7.5801,-75.4014,8533907,05-Sep-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,0
+8.5106,-73.4467,8533749,04-Sep-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Norte de Santander,0
+8.4364,-73.2874,8533750,04-Sep-21,Battles,Armed clash,ELN,Military Forces of Colombia (2018-),Norte de Santander,1
+4.2643,-75.9309,8533751,04-Sep-21,Battles,Armed clash,FARC Dissident - Mobile Column,Military Forces of Colombia (2018-),Valle del Cauca,1
+2.331,-77.2353,8533748,03-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+7.0774,-70.7464,8429764,03-Sep-21,Explosions/Remote violence,Remote explosive/landmine/IED,FARC Dissident - 10th Front,Military Forces of Colombia (2018-),Arauca,0
+6.9539,-71.8723,8429765,03-Sep-21,Explosions/Remote violence,Remote explosive/landmine/IED,FARC Dissident - 10th Front,Military Forces of Colombia (2018-),Arauca,0
+8.5768,-73.0948,8429837,03-Sep-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Norte de Santander,1
+3.4376,-76.519,8546816,02-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+4.8057,-75.7171,8606684,02-Sep-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Risaralda,1
+10.3917,-75.4824,8533956,01-Sep-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Bolivar,0
+8.9477,-74.1052,8429834,31-Aug-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Gulf Clan,Bolivar,1
+8.4026,-73.2071,8429968,31-Aug-21,Battles,Armed clash,ELN,Military Forces of Colombia (2018-),Norte de Santander,1
+7.8939,-72.5078,8604822,30-Aug-21,Explosions/Remote violence,Remote explosive/landmine/IED,ELN,Police Forces of Colombia (2018-),Norte de Santander,0
+6.7776,-76.132,8429647,30-Aug-21,Battles,Armed clash,Gulf Clan,Police Forces of Colombia (2018-),Antioquia,2
+3.0161,-76.4854,8429644,29-Aug-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Cauca,2
+3.5647,-73.7942,8429645,29-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Meta,1
+8.3585,-72.4792,8429646,29-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,3
+4.6165,-74.146,8429640,28-Aug-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),"Bogota, D.C.",0
+8.6395,-72.7359,8429643,28-Aug-21,Battles,Armed clash,FARC Dissident - 33rd Front,Military Forces of Colombia (2018-),Norte de Santander,1
+2.4825,-76.5741,8429831,27-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,0
+-0.1919,-74.7825,8430324,26-Aug-21,Battles,Armed clash,CDF,Police Forces of Colombia (2018-),Putumayo,1
+8.4026,-73.2071,8612800,25-Aug-21,Battles,Armed clash,Military Forces of Colombia (2018-),Unidentified Armed Group (Colombia),Norte de Santander,0
+1.3312,-75.9736,8533746,24-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Caqueta,1
+6.9539,-71.8723,8430321,24-Aug-21,Battles,Armed clash,FARC Dissident - 10th Front,El Tren de Aragua Gang,Arauca,3
+4.2507,-76.9693,8430639,24-Aug-21,Violence against civilians,Attack,Gulf Clan,Civilians (Colombia),Choco,1
+8.3585,-72.4792,8431636,24-Aug-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Norte de Santander,0
+7.4886,-74.8671,8430318,23-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,1
+2.9356,-75.2777,8430320,23-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Huila,1
+2.4825,-76.5741,8431124,23-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+8.3896,-73.38,8586953,22-Aug-21,Violence against civilians,Abduction/forced disappearance,ELN,Civilians (Colombia),Cesar,0
+3.0161,-76.4854,8430316,22-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,3
+8.3585,-72.4792,8430317,22-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,2
+3.0341,-76.4085,8431122,22-Aug-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Cauca,0
+2.4825,-76.5741,8429636,21-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+8.6857,-73.669,8430315,21-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cesar,1
+2.4825,-76.5741,8431114,19-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,0
+7.0774,-70.7464,8533943,19-Aug-21,Violence against civilians,Abduction/forced disappearance,FARC Dissident - 10th Front,Civilians (Colombia),Arauca,0
+4.3346,-75.8303,8431047,18-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+3.9,-76.3019,8431115,18-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+7.8888,-75.6718,8430314,17-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cordoba,1
+10.3917,-75.4824,8431136,17-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,1
+7.0774,-70.7464,8533745,17-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Arauca,1
+5.516,-76.9744,8430310,15-Aug-21,Battles,Armed clash,Gulf Clan,ELN,Choco,0
+1.8071,-78.7639,8430311,15-Aug-21,Battles,Armed clash,Police Forces of Colombia (2018-),GUP,Narino,1
+10.9102,-74.7848,8627573,15-Aug-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Atlantico,0
+4.7469,-76.8891,8429790,14-Aug-21,Battles,Armed clash,ELN,Gulf Clan,Choco,1
+3.1738,-76.2613,8430308,14-Aug-21,Violence against civilians,Attack,FARC Dissident,Civilians (Haiti),Cauca,1
+10.3917,-75.4824,8431129,14-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,1
+8.6395,-72.7359,8431631,13-Aug-21,Battles,Armed clash,FARC Dissident,Police Forces of Colombia (2018-),Norte de Santander,0
+3.0341,-76.4085,8430304,12-Aug-21,Violence against civilians,Attack,FARC Dissident - Dagoberto Ramos,Civilians (Colombia),Cauca,2
+1.9345,-77.3062,8430307,12-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Narino,1
+3.4639,-73.6214,8430306,11-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Meta,1
+6.1871,-72.4729,8431111,11-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Boyaca,1
+8.6395,-72.7359,8431633,11-Aug-21,Battles,Armed clash,FARC Dissident,Police Forces of Colombia (2018-),Norte de Santander,0
+3.4376,-76.519,8549351,11-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Venezuela),Valle del Cauca,1
+1.9345,-77.3062,8533742,10-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Narino,1
+4.8057,-75.7171,8430302,10-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Risaralda,1
+-0.1919,-74.7825,8430300,09-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Putumayo,1
+1.5704,-75.3261,8430305,09-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Caqueta,1
+6.9168,-75.6747,8533744,09-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,1
+2.0011,-76.7789,8430826,08-Aug-21,Battles,Armed clash,ELN,ELN,Cauca,2
+6.2496,-75.5774,8430860,06-Aug-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Antioquia,1
+8.2971,-74.4717,8431098,06-Aug-21,Battles,Armed clash,FARC Dissident - 37th Front,ELN,Bolivar,0
+9.9826,-75.3008,8431131,06-Aug-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Gulf Clan,Bolivar,2
+1.2029,-76.9227,8533743,05-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Putumayo,1
+6.7197,-75.9075,8430292,03-Aug-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Antioquia,0
+1.3913,-78.5193,8431117,03-Aug-21,Battles,Armed clash,FARC Dissident - Oliver Sinisterra Front,FARC Dissident - Ivan Rios,Narino,6
+7.9634,-74.0507,8431132,03-Aug-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident,Bolivar,1
+8.14,-72.57,8431628,03-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,0
+7.9382,-72.6047,8431635,03-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+8.2971,-74.4717,8430290,02-Aug-21,Battles,Armed clash,FARC Dissident - 37th Front,Gulf Clan,Bolivar,0
+10.5898,-74.1868,8430291,02-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Magdalena,3
+3.2869,-75.8184,8430289,01-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Tolima,3
+8.6395,-72.7359,8431629,01-Aug-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+11.7146,-72.2648,8430286,31-Jul-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),La Guajira,0
+4.8057,-75.7171,8430287,31-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Risaralda,0
+4.5855,-74.2145,8402518,30-Jul-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Private Security Forces (Colombia),Cundinamarca,1
+6.2839,-71.0977,8402354,29-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Arauca,3
+2.1198,-74.7673,8402491,29-Jul-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Gentil Duarte Front,Caqueta,0
+3.0161,-76.4854,8402493,29-Jul-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Cauca,0
+2.3845,-77.2157,8430284,29-Jul-21,Battles,Armed clash,ELN,FARC Dissident,Cauca,0
+7.1716,-75.7647,8402348,28-Jul-21,Battles,Armed clash,FARC Dissident - 18th Front,Gulf Clan,Antioquia,0
+10.4605,-73.2594,8402522,28-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cesar,0
+7.9085,-72.4789,8550789,27-Jul-21,Violence against civilians,Attack,ELN,Civilians (Colombia),Norte de Santander,1
+2.5664,-72.639,8402347,27-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Guaviare,1
+8.2971,-74.4717,8402344,26-Jul-21,Violence against civilians,Attack,FARC Dissident - 37th Front,Civilians (Colombia),Bolivar,1
+3.0161,-76.4854,8402345,26-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+8.5702,-73.4684,8402346,26-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+4.1513,-74.8854,8402513,26-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Tolima,1
+8.6395,-72.7359,8402745,26-Jul-21,Violence against civilians,Attack,Military Forces of Colombia (2018-),Civilians (Colombia),Norte de Santander,1
+7.9382,-72.6047,8402746,26-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,2
+4.1706,-76.1664,8402515,25-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+8.0649,-74.5881,8402523,25-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,2
+1.4792,-75.4364,8402340,24-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Caqueta,3
+2.0405,-77.2159,8402341,24-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,3
+2.4638,-77.2356,8402478,24-Jul-21,Battles,Armed clash,FARC Dissident - Carlos Patino Front,Military Forces of Colombia (2018-),Cauca,0
+3.6569,-76.6886,8402517,24-Jul-21,Battles,Armed clash,FARC Dissident - Jaime Martinez,Police Forces of Colombia (2018-),Valle del Cauca,0
+7.1163,-73.1326,8402875,24-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Venezuela),Santander,1
+4.0917,-76.0388,8395368,23-Jul-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Valle del Cauca,1
+6.2496,-75.5774,8395458,23-Jul-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,0
+7.8888,-75.6718,8395478,23-Jul-21,Battles,Armed clash,Gulf Clan,Los Caparros Gang,Cordoba,0
+1.2797,-75.2041,8402339,23-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Caqueta,1
+11.5288,-72.9115,8402494,23-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Venezuela),La Guajira,1
+4.536,-75.6808,8431105,23-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Quindio,3
+2.0692,-77.0533,8395539,22-Jul-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Cauca,0
+3.4376,-76.519,8546815,22-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+-0.1919,-74.7825,8395366,21-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Putumayo,1
+7.3228,-73.0164,8395367,21-Jul-21,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Colombia),Civilians (Colombia),Santander,0
+7.1716,-75.7647,8395480,21-Jul-21,Battles,Armed clash,FARC Dissident - 18th Front,Gulf Clan,Antioquia,0
+5.6327,-73.5247,8395481,21-Jul-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Boyaca,0
+2.4638,-77.2356,8402476,21-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+9.3644,-73.6022,8395358,20-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cesar,0
+5.516,-76.9744,8395347,19-Jul-21,Battles,Armed clash,ELN,Gulf Clan,Choco,0
+3.529,-76.4998,8395531,19-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,2
+6.5974,-75.011,8395345,18-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,4
+2.331,-77.2353,8395346,18-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+3.0161,-76.4854,8395343,17-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,3
+3.1859,-76.6734,8395528,17-Jul-21,Violence against civilians,Abduction/forced disappearance,FARC Dissident - Jaime Martinez,Civilians (Colombia),Valle del Cauca,0
+3.6569,-76.6886,8430296,17-Jul-21,Battles,Armed clash,FARC Dissident - Jaime Martinez,Police Forces of Colombia (2018-),Valle del Cauca,0
+7.0003,-76.263,8385438,16-Jul-21,Explosions/Remote violence,Remote explosive/landmine/IED,ELN,Civilians (Colombia),Antioquia,0
+2.4638,-77.2356,8385451,16-Jul-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Cauca,0
+8.082,-72.8008,8395628,16-Jul-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Norte de Santander,1
+7.7858,-72.474,8395629,16-Jul-21,Violence against civilians,Attack,ELN,Civilians (Colombia),Norte de Santander,2
+4.536,-75.6808,8385252,15-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Quindio,1
+3.8758,-77.0117,8385450,15-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+4.5855,-74.2145,8402492,15-Jul-21,Violence against civilians,Sexual violence,Police Forces of Colombia (2018-),Civilians (Colombia),Cundinamarca,0
+2.7546,-76.6292,8385251,14-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+3.022,-76.2404,8385440,14-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+2.35,-76.6842,8385441,14-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+3.2623,-76.5425,8385444,14-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+8.4364,-73.2874,8385555,14-Jul-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - 33rd Front,Norte de Santander,2
+3.5905,-75.3831,8395342,14-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Tolima,1
+7.8939,-72.5078,8385245,13-Jul-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Norte de Santander,5
+6.9777,-76.8175,8385256,13-Jul-21,Explosions/Remote violence,Remote explosive/landmine/IED,ELN,Civilians (Colombia),Antioquia,0
+10.6328,-74.9211,8395341,13-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Atlantico,1
+3.4376,-76.519,8546813,12-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+1.8555,-78.3711,8385244,12-Jul-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Narino,3
+4.6165,-74.146,8385249,12-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),"Bogota, D.C.",1
+4.675,-75.7798,8385407,12-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,3
+1.3351,-74.8472,8606683,11-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Caqueta,1
+6.3039,-70.2043,8385247,11-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Arauca,4
+4.7588,-75.9423,8385248,11-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,2
+3.0161,-76.4854,8385309,11-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+8.3609,-72.4103,8385554,11-Jul-21,Battles,Armed clash,ELN,Gulf Clan,Norte de Santander,2
+10.4605,-73.2594,8377209,09-Jul-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Private Security Forces (Colombia),Cesar,0
+8.3148,-72.4863,8377471,09-Jul-21,Violence against civilians,Attack,Gulf Clan,Civilians (Colombia),Norte de Santander,1
+8.2763,-73.8681,8377073,08-Jul-21,Battles,Armed clash,ELN,FARC Dissident,Bolivar,3
+4.7852,-74.7626,8377074,08-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Tolima,4
+7.0003,-76.263,8377191,08-Jul-21,Explosions/Remote violence,Remote explosive/landmine/IED,ELN,Civilians (Colombia),Antioquia,1
+4.7441,-74.0966,8377208,08-Jul-21,Violence against civilians,Sexual violence,Unidentified Armed Group (Colombia),Civilians (Colombia),"Bogota, D.C.",0
+8.2971,-74.4717,8377238,08-Jul-21,Battles,Armed clash,ELN,FARC Dissident,Bolivar,4
+8.3609,-72.4103,8377470,08-Jul-21,Battles,Armed clash,Gulf Clan,ELN,Norte de Santander,0
+3.3839,-74.0437,8377069,06-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Meta,4
+2.1198,-74.7673,8377064,05-Jul-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Second Marquetalia,Caqueta,5
+6.7884,-72.837,8377065,05-Jul-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Santander,0
+2.9597,-76.6934,8377242,05-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+4.2155,-74.9818,8377247,05-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Tolima,3
+9.973,-73.8876,8606682,04-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cesar,1
+8.3217,-73.146,8377062,04-Jul-21,Explosions/Remote violence,Remote explosive/landmine/IED,ELN,Police Forces of Colombia (2018-),Norte de Santander,0
+6.2496,-75.5774,8377207,04-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,1
+8.2971,-74.4717,8377057,03-Jul-21,Battles,Armed clash,Gulf Clan,Military Forces of Colombia (2018-),Bolivar,2
+1.6179,-75.6086,8377058,03-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Caqueta,1
+2.0405,-77.2159,8377059,03-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,3
+4.0853,-76.1977,8377177,03-Jul-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+2.9597,-76.6934,8377241,03-Jul-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Jaime Martinez,Cauca,1
+8.6395,-72.7359,8377467,03-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,2
+5.516,-76.9744,8367534,02-Jul-21,Violence against civilians,Attack,Gulf Clan,Civilians (Colombia),Choco,1
+4.0853,-76.1977,8367541,01-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+3.1738,-76.2613,8367620,01-Jul-21,Explosions/Remote violence,Grenade,FARC Dissident - Dagoberto Ramos,Military Forces of Colombia (2018-),Cauca,0
+3.1661,-76.2035,8367624,01-Jul-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Dagoberto Ramos,Cauca,1
+8.6395,-72.7359,8367783,01-Jul-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+6.7971,-71.7686,8367435,30-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Arauca,0
+5.516,-76.9744,8367535,30-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Choco,0
+7.7336,-75.8544,8367545,30-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Cordoba,0
+3.1201,-76.3099,8367621,30-Jun-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident,Cauca,0
+1.7653,-78.1811,8367438,29-Jun-21,Violence against civilians,Attack,Gulf Clan,Civilians (Colombia),Narino,1
+3.529,-76.4998,8367608,29-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+8.3585,-72.4792,8367779,29-Jun-21,Violence against civilians,Attack,ELN,Civilians (Colombia),Norte de Santander,1
+5.5529,-75.4687,8367788,29-Jun-21,Battles,Armed clash,Gulf Clan,Police Forces of Colombia (2018-),Caldas,1
+6.2839,-71.0977,8367560,28-Jun-21,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Colombia),Civilians (Colombia),Arauca,0
+7.0039,-73.9125,8367916,28-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,2
+7.1503,-76.6315,8367493,27-Jun-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Civilians (Colombia),Choco,0
+4.2121,-76.1556,8367562,27-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+10.3917,-75.4824,8367622,27-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,1
+7.0728,-73.1683,8367915,27-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Santander,1
+3.4376,-76.519,8549374,27-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,10
+3.4376,-76.519,8549378,26-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,3
+11.1808,-72.6197,8367434,26-Jun-21,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Colombia),Civilians (Colombia),La Guajira,0
+10.8563,-74.7742,8367546,26-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Atlantico,0
+3.3283,-76.6385,8367610,26-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Valle del Cauca,1
+7.9774,-75.1983,8367611,26-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,1
+9.4025,-75.6813,8367612,26-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Sucre,1
+8.956,-73.6258,8395335,26-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Cesar,3
+2.1198,-74.7673,8395336,26-Jun-21,Violence against civilians,Attack,FARC Dissident - Edison Cinco Mil Front,Civilians (Colombia),Caqueta,5
+7.8939,-72.5078,8402337,25-Jun-21,Violence against civilians,Attack,FARC Dissident - 33rd Front,Civilians (Colombia),Norte de Santander,0
+3.015,-76.6427,8367436,25-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,2
+8.9477,-74.1052,8367613,25-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,1
+4.7419,-74.0278,8266974,24-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),"Bogota, D.C.",0
+7.8194,-72.4543,8267229,24-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,0
+8.1928,-72.4953,8267237,24-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+9.2686,-74.7702,8367623,24-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,1
+6.9639,-75.4188,8377054,24-Jun-21,Violence against civilians,Attack,ELN,Civilians (Colombia),Antioquia,1
+3.8758,-77.0117,8266836,23-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Valle del Cauca,1
+7.8194,-72.4543,8267234,23-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+8.6395,-72.7359,8267236,23-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+2.3302,-72.6272,8367542,23-Jun-21,Explosions/Remote violence,Remote explosive/landmine/IED,FARC Dissident - Gentil Duarte Front,Civilians (Colombia),Guaviare,0
+7.0003,-76.263,8266829,22-Jun-21,Explosions/Remote violence,Remote explosive/landmine/IED,ELN,Civilians (Colombia),Antioquia,0
+4.0853,-76.1977,8266993,22-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+7.8939,-72.5078,8267005,22-Jun-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,0
+2.9356,-75.2777,8267021,22-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Huila,1
+1.8537,-76.0507,8267022,22-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Huila,0
+10.9589,-74.7468,8267242,22-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Magdalena,1
+7.1163,-73.1326,8267367,22-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Santander,1
+7.8939,-72.5078,8267003,21-Jun-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Norte de Santander,0
+8.3585,-72.4792,8267227,21-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+7.8939,-72.5078,8267230,21-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+8.2475,-73.3558,8267231,21-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Los Pelusos Gang,Norte de Santander,1
+6.9777,-76.8175,8367433,21-Jun-21,Explosions/Remote violence,Remote explosive/landmine/IED,ELN,Civilians (Colombia),Antioquia,2
+7.0003,-76.263,8266823,20-Jun-21,Violence against civilians,Attack,Gulf Clan,Civilians (Colombia),Antioquia,1
+4.1108,-76.1936,8266824,20-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+8.6395,-72.7359,8267232,20-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+7.8333,-72.5057,8267233,20-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+7.8939,-72.5078,8267235,20-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Venezuela),Norte de Santander,1
+7.0796,-74.7016,8395334,20-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,3
+7.027,-71.4268,8266820,19-Jun-21,Battles,Armed clash,ELN,Military Forces of Colombia (2018-),Arauca,1
+10.3909,-73.0267,8266821,19-Jun-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Cesar,1
+8.0661,-76.6585,8266961,19-Jun-21,Battles,Armed clash,Gulf Clan,Police Forces of Colombia (2018-),Antioquia,1
+9.741,-75.5202,8267025,19-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Sucre,1
+8.2476,-73.3328,8267228,19-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+8.6395,-72.7359,8267366,19-Jun-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Norte de Santander,0
+6.3341,-75.5547,8266818,18-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,3
+3.8758,-77.0117,8266819,18-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+3.529,-76.4998,8267018,18-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+6.9539,-71.8723,8166725,17-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Arauca,0
+2.35,-76.6842,8166842,17-Jun-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Jaime Martinez,Cauca,0
+3.529,-76.4998,8166894,17-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+8.5114,-77.2801,8166724,15-Jun-21,Battles,Armed clash,Gulf Clan,Military Forces of Colombia (2018-),Choco,0
+4.7441,-74.0966,8166738,15-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),"Bogota, D.C.",1
+8.2215,-75.4807,8166876,15-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Cordoba,0
+11.2294,-74.1909,8166918,15-Jun-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Magdalena,0
+3.4376,-76.519,8549552,15-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-) UNP,Valle del Cauca,0
+2.9356,-75.2777,8395333,15-Jun-21,Violence against civilians,Attack,FARC Dissident - Second Marquetalia,Civilians (Colombia),Huila,1
+7.8939,-72.5078,8402336,15-Jun-21,Explosions/Remote violence,Remote explosive/landmine/IED,FARC Dissident - 33rd Front,Military Forces of Colombia (2018-),Norte de Santander,0
+8.5768,-73.0948,8612803,15-Jun-21,Explosions/Remote violence,Remote explosive/landmine/IED,ELN,Unknown,Norte de Santander,0
+10.6968,-73.3542,8166736,14-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cesar,1
+0.4239,-76.906,8166737,14-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Putumayo,1
+8.4082,-75.5832,8166869,14-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cordoba,1
+11.0067,-74.2413,8166875,14-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Magdalena,1
+3.529,-76.4998,8166927,14-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-) ESMAD,Valle del Cauca,0
+10.7354,-75.2643,8166935,14-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,1
+7.8939,-72.5078,8167074,14-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Norte de Santander,1
+3.4376,-76.519,8546803,13-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+4.6165,-74.146,8166734,13-Jun-21,Violence against civilians,Attack,Police Forces of Colombia (2018-) ESMAD,Civilians (Colombia),"Bogota, D.C.",0
+6.6872,-71.3435,8166931,13-Jun-21,Explosions/Remote violence,Remote explosive/landmine/IED,FARC Dissident - 10th Front,Civilians (Colombia),Arauca,0
+7.9382,-72.6047,8167070,13-Jun-21,Violence against civilians,Attack,Unidentified Communal Militia (Colombia),Civilians (Colombia),Norte de Santander,0
+8.4471,-73.2609,8167073,13-Jun-21,Battles,Armed clash,Gulf Clan,ELN,Norte de Santander,1
+4.5902,-74.1036,8166733,12-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),"Bogota, D.C.",1
+9.741,-75.5202,8166933,12-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Sucre,1
+1.8555,-78.3711,8068245,11-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Narino,0
+8.6395,-72.7359,8068107,09-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+10.1489,-73.9608,8068253,09-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cesar,1
+8.2971,-74.4717,8166932,09-Jun-21,Battles,Armed clash,Gulf Clan,FARC Dissident,Bolivar,0
+3.1738,-76.2613,8533741,09-Jun-21,Violence against civilians,Attack,ELN,Civilians (Colombia),Cauca,2
+6.7971,-71.7686,8606681,09-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Arauca,2
+6.2496,-75.5774,8068226,08-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,0
+8.6395,-72.7359,8068498,08-Jun-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Unknown,Norte de Santander,0
+3.7424,-76.9659,8068282,07-Jun-21,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+4.0853,-76.1977,8068288,07-Jun-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Valle del Cauca,0
+8.7271,-72.7493,8068491,07-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+4.0853,-76.1977,8068105,06-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+9.2686,-74.7702,8068359,06-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,1
+8.5872,-75.0723,8068372,06-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Sucre,1
+7.9738,-75.4168,8068257,05-Jun-21,Battles,Armed clash,Gulf Clan,Police Forces of Colombia (2018-),Cordoba,0
+8.812,-74.721,8068363,05-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Sucre,1
+3.0161,-76.4854,8533740,04-Jun-21,Battles,Armed clash,FARC Dissident,Police Forces of Colombia (2018-),Cauca,5
+3.4376,-76.519,8546799,04-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Valle del Cauca,1
+3.4376,-76.519,8549620,04-Jun-21,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Colombia (2018-),Unknown,Valle del Cauca,0
+2.8916,-76.5529,8058061,04-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Cauca,0
+2.6233,-76.5709,8058340,04-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Cauca,0
+7.8475,-72.4701,8058539,04-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+10.3832,-75.3319,8068356,04-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,1
+9.4025,-75.6813,8068370,04-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Gulf Clan,Sucre,1
+8.2348,-72.4271,8068486,04-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+7.8939,-72.5078,8068493,04-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+7.9738,-75.4168,8058059,03-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cordoba,0
+11.7146,-72.2648,8058300,03-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),La Guajira,0
+7.8475,-72.4701,8058536,03-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Venezuela),Civilians (Colombia),Norte de Santander,1
+11.0067,-74.2413,8068252,03-Jun-21,Battles,Armed clash,Los Pachencas Gang,Unidentified Armed Group (Colombia),Magdalena,2
+10.9799,-74.8013,8068304,03-Jun-21,Violence against civilians,Abduction/forced disappearance,Gulf Clan,Civilians (Colombia),Atlantico,0
+6.5565,-75.8271,8058046,02-Jun-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Antioquia,0
+7.8688,-75.8508,8058204,02-Jun-21,Explosions/Remote violence,Air/drone strike,Military Forces of Colombia (2018-),Gulf Clan,Cordoba,0
+11.2294,-74.1909,8058218,02-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Magdalena,0
+8.6395,-72.7359,8058540,02-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+3.022,-76.2404,8068337,02-Jun-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,2
+8.9477,-74.1052,8068369,02-Jun-21,Violence against civilians,Attack,Gulf Clan,Civilians (Colombia),Bolivar,1
+8.956,-73.6258,8058035,31-May-21,Explosions/Remote violence,Grenade,ELN,Police Forces of Colombia (2018-),Cesar,0
+2.5224,-75.3154,8058038,31-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Huila,9
+3.3814,-76.3788,8058326,30-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Valle del Cauca,1
+7.8939,-72.5078,8058541,30-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+4.994,-75.8124,8395337,30-May-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Caldas,1
+6.5244,-76.976,8432060,30-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Choco,0
+4.7588,-75.9423,8058032,29-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+4.6165,-74.146,8058207,29-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),"Bogota, D.C.",0
+8.6857,-73.669,8058219,29-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cesar,1
+11.2294,-74.1909,8058221,29-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Gulf Clan,Magdalena,1
+8.1704,-76.0597,8058222,29-May-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Civilians (Colombia),Cordoba,1
+4.5593,-74.0874,8058283,29-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),"Bogota, D.C.",0
+8.4905,-72.6397,8047093,28-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Norte de Santander,0
+10.3917,-75.4824,8058031,28-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,0
+11.0687,-72.759,8058224,28-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),La Guajira,1
+7.0261,-74.6959,8606680,28-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,1
+3.4376,-76.519,8546795,27-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+1.3354,-77.5945,8046685,27-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Narino,2
+7.5783,-75.3524,8068099,27-May-21,Battles,Armed clash,Los Caparros Gang,Police Forces of Colombia (2018-),Antioquia,1
+3.3239,-76.2345,8046676,26-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+6.5565,-75.8271,8046680,26-May-21,Battles,Armed clash,Gulf Clan,Police Forces of Colombia (2018-),Antioquia,1
+10.9799,-74.8013,8046991,26-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Los Rastrojos Gang,Atlantico,1
+5.6922,-76.658,8166730,26-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Choco,1
+4.0459,-76.1135,8046666,25-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,4
+2.9597,-76.6934,8046667,25-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,3
+8.1227,-75.7619,8046859,25-May-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Cordoba,1
+11.1575,-72.5985,8046860,25-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),La Guajira,2
+9.2729,-75.2419,8046960,25-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Sucre,0
+3.4376,-76.519,8546794,24-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+1.0289,-76.6172,8046743,24-May-21,Violence against civilians,Attack,Police Forces of Colombia (2018-) DIRAN,Civilians (Colombia),Putumayo,0
+1.8071,-78.7639,8068340,24-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Narino,0
+3.4376,-76.519,8548908,23-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Valle del Cauca,0
+3.4376,-76.519,8549346,23-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Valle del Cauca,0
+9.2686,-74.7702,8046913,23-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,1
+9.2686,-74.7702,8046954,23-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,1
+8.7451,-75.8756,8046984,23-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cordoba,1
+10.3917,-75.4824,8046986,23-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,1
+8.3103,-73.599,8046865,22-May-21,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Colombia),Civilians (Colombia),Cesar,0
+3.6359,-76.4841,8046939,22-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,3
+10.4472,-75.3697,8046990,22-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,1
+7.8194,-72.4543,8047098,22-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+9.5968,-75.2368,8058025,22-May-21,Violence against civilians,Attack,Gulf Clan,Civilians (Colombia),Sucre,1
+8.4001,-73.4241,7991866,21-May-21,Battles,Armed clash,ELN,Police Forces of Colombia (2018-),Norte de Santander,0
+2.4511,-76.8118,8046655,21-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,4
+3.2531,-76.2289,8046963,21-May-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Cauca,0
+10.9102,-74.7848,8058030,21-May-21,Violence against civilians,Sexual violence,Police Forces of Colombia (2018-),Civilians (Colombia),Atlantico,0
+2.4825,-76.5741,8166723,21-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Private Security Forces (Colombia),Cauca,1
+10.4605,-73.2594,7991283,20-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cesar,1
+9.973,-73.8876,7991289,20-May-21,Violence against civilians,Attack,Gulf Clan,Civilians (Colombia),Cesar,1
+2.7981,-76.4844,7991527,20-May-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Unknown,Cauca,0
+3.4995,-76.5506,7991535,20-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Valle del Cauca,0
+8.4026,-73.2071,7991872,20-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Norte de Santander,0
+3.4376,-76.519,8549353,20-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Valle del Cauca,0
+7.8939,-72.5078,7991855,19-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+1.8071,-78.7639,7991548,18-May-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Oliver Sinisterra Front,Narino,3
+3.8758,-77.0117,7990944,17-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+6.7235,-75.2816,7991389,17-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,0
+3.4376,-76.519,8549383,16-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+8.9983,-72.8997,7990940,16-May-21,Explosions/Remote violence,Remote explosive/landmine/IED,FARC Dissident - 33rd Front,Military Forces of Colombia (2018-),Norte de Santander,2
+7.1036,-77.7628,7991544,16-May-21,Battles,Armed clash,Gulf Clan,Military Forces of Colombia (2018-),Choco,0
+3.2623,-76.5425,7990938,15-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+8.5673,-74.5553,7991291,15-May-21,Battles,Armed clash,Gulf Clan,Police Forces of Colombia (2018-),Bolivar,0
+8.4261,-76.7846,7991423,15-May-21,Battles,Armed clash,Gulf Clan,Military Forces of Colombia (2018-),Antioquia,1
+8.6395,-72.7359,7991861,15-May-21,Battles,Armed clash,FARC Dissident - 33rd Front,Police Forces of Colombia (2018-),Norte de Santander,0
+7.7858,-72.474,7991863,15-May-21,Violence against civilians,Attack,ELN,Civilians (Colombia),Norte de Santander,2
+11.5288,-72.9115,8068256,15-May-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),La Guajira,1
+8.2126,-73.2386,7990930,14-May-21,Battles,Armed clash,Los Pelusos Gang,Police Forces of Colombia (2018-),Norte de Santander,1
+1.9345,-77.3062,7990931,14-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Narino,1
+2.4825,-76.5741,7990934,14-May-21,Battles,Armed clash,FARC Dissident,Police Forces of Colombia (2018-),Cauca,0
+3.2531,-76.2289,8166729,13-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+2.4825,-76.5741,7990916,12-May-21,Violence against civilians,Sexual violence,Police Forces of Colombia (2018-),Civilians (Colombia),Cauca,0
+3.6569,-76.6886,7991354,12-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Valle del Cauca,0
+2.5224,-75.3154,7991395,12-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Huila,1
+1.8555,-78.3711,8046651,12-May-21,Battles,Armed clash,FARC Dissident - Alfonso Cano Front,FARC Dissident - Oliver Sinisterra Front,Narino,0
+3.2223,-75.2399,8068098,12-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Huila,2
+3.8758,-77.0117,7990901,11-May-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+8.3896,-73.38,7990904,11-May-21,Battles,Armed clash,ELN,Police Forces of Colombia (2018-),Cesar,1
+3.7231,-75.4807,8046650,11-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Tolima,1
+2.253,-76.6138,7990899,10-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Cauca,0
+8.3585,-72.4792,7991869,10-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Norte de Santander,0
+5.0577,-75.4911,7991897,10-May-21,Violence against civilians,Sexual violence,Police Forces of Colombia (2018-),Civilians (Colombia),Caldas,0
+3.2423,-75.5667,7990897,09-May-21,Violence against civilians,Attack,FARC Dissident - Ismael Ruiz Front,Civilians (Colombia),Huila,2
+2.253,-76.6138,7991581,09-May-21,Battles,Armed clash,ELN,Police Forces of Colombia (2018-),Cauca,0
+10.3917,-75.4824,7991582,09-May-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Bolivar,0
+9.3023,-75.3955,7991588,09-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Sucre,1
+8.3585,-72.4792,7991849,09-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Norte de Santander,0
+3.4376,-76.519,8549578,09-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+1.8555,-78.3711,7990888,08-May-21,Battles,Armed clash,FARC Dissident - Alfonso Cano Front,FARC Dissident - 30th Front,Narino,0
+9.2407,-75.2276,7991583,08-May-21,Battles,Armed clash,Police Forces of Colombia (2018-),Unidentified Armed Group (Colombia),Sucre,2
+8.576,-72.9262,7991857,08-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+1.8555,-78.3711,8046845,07-May-21,Battles,Armed clash,FARC Dissident - Alfonso Cano Front,FARC Dissident - Oliver Sinisterra Front,Narino,0
+0.699,-75.2537,7938137,05-May-21,Battles,Armed clash,FARC Dissident - 62nd Front,Military Forces of Colombia (2018-),Caqueta,1
+7.5783,-75.3524,7938644,05-May-21,Battles,Armed clash,Los Caparros Gang,Police Forces of Colombia (2018-),Antioquia,1
+10.3917,-75.4824,7991453,05-May-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Bolivar,0
+7.027,-71.4268,8266817,04-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Arauca,1
+2.9356,-75.2777,7938435,04-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Huila,1
+9.9826,-75.3008,7938637,04-May-21,Battles,Armed clash,Gulf Clan,Police Forces of Colombia (2018-),Bolivar,1
+8.1704,-76.0597,7938638,04-May-21,Violence against civilians,Attack,Gulf Clan,Civilians (Colombia),Cordoba,2
+8.0818,-73.2217,7938885,04-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Norte de Santander,0
+8.0818,-73.2217,7938886,04-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,0
+6.9975,-73.0547,8534736,04-May-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Santander,0
+3.4376,-76.519,8546783,04-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Valle del Cauca,0
+3.8758,-77.0117,8058028,03-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,2
+3.822,-76.5222,7938133,03-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,6
+8.7451,-75.8756,7938655,03-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cordoba,1
+7.145,-75.8475,7938281,02-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,1
+8.5702,-73.4684,7938883,02-May-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Norte de Santander,0
+8.9983,-72.8997,7938890,02-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+3.529,-76.4998,7938621,01-May-21,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+0.3433,-76.9124,8068104,01-May-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Putumayo,1
+3.0161,-76.4854,7928145,30-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+4.615,-74.1919,8385246,29-Apr-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),"Bogota, D.C.",0
+6.0458,-75.9074,7928191,29-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,2
+10.9799,-74.8013,7928451,29-Apr-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Atlantico,0
+3.4376,-76.519,8546786,29-Apr-21,Violence against civilians,Sexual violence,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+8.2125,-72.5506,8047101,28-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+5.6133,-75.4589,8068103,28-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Caldas,2
+5.6193,-75.3461,7928135,28-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,1
+9.741,-75.5202,7928138,28-Apr-21,Battles,Armed clash,Gulf Clan,Police Forces of Colombia (2018-),Sucre,2
+7.5801,-75.4014,7928267,28-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,2
+7.8939,-72.5078,7928445,28-Apr-21,Battles,Armed clash,ELN,Police Forces of Colombia (2018-),Norte de Santander,0
+8.6395,-72.7359,7928645,28-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+1.3369,-75.6571,7990883,28-Apr-21,Violence against civilians,Attack,Police Forces of Colombia (2018-) ESMAD,Civilians (Colombia),Caqueta,1
+3.0161,-76.4854,7928392,27-Apr-21,Battles,Armed clash,FARC Dissident - Dagoberto Ramos,Military Forces of Colombia (2018-),Cauca,0
+2.9515,-76.2711,7928409,27-Apr-21,Battles,Armed clash,FARC Dissident - Dagoberto Ramos,Military Forces of Colombia (2018-),Cauca,0
+3.065,-76.3535,7928426,27-Apr-21,Battles,Armed clash,FARC Dissident - Dagoberto Ramos,Military Forces of Colombia (2018-),Cauca,1
+3.1738,-76.2613,7928433,27-Apr-21,Battles,Armed clash,FARC Dissident - Dagoberto Ramos,Military Forces of Colombia (2018-),Cauca,1
+3.2531,-76.2289,7928436,27-Apr-21,Battles,Armed clash,FARC Dissident - Dagoberto Ramos,Military Forces of Colombia (2018-),Cauca,0
+10.9799,-74.8013,7928450,27-Apr-21,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Colombia),Civilians (Colombia),Atlantico,0
+4.7588,-75.9423,7928691,27-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+9.3023,-75.3955,7928453,26-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Sucre,1
+8.5768,-73.0948,7928644,26-Apr-21,Explosions/Remote violence,Remote explosive/landmine/IED,FARC Dissident - 33rd Front,Military Forces of Colombia (2018-),Norte de Santander,0
+5.6557,-75.919,7928130,25-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,5
+3.6362,-74.7681,7928131,25-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Tolima,1
+10.7911,-74.7585,7928397,25-Apr-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Atlantico,0
+9.1597,-75.0494,7928454,25-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Sucre,1
+2.3161,-78.3118,7928457,25-Apr-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Narino,0
+10.2566,-75.3445,7928458,25-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,1
+8.2475,-73.3558,7928641,24-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,2
+8.1704,-76.0597,7914189,23-Apr-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Cordoba,2
+0.505,-76.4973,7928197,23-Apr-21,Violence against civilians,Attack,Police Forces of Colombia (2018-) DIRAN,Civilians (Colombia),Putumayo,0
+6.8209,-71.3237,7928243,23-Apr-21,Battles,Armed clash,ELN,Military Forces of Colombia (2018-),Arauca,1
+7.8333,-72.5057,7928640,23-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+1.3351,-74.8472,7914010,22-Apr-21,Violence against civilians,Attack,FARC Dissident - 62nd Front,Civilians (Colombia),Caqueta,3
+1.9089,-75.1575,7914011,22-Apr-21,Battles,Armed clash,FARC Dissident,Police Forces of Colombia (2018-),Caqueta,2
+6.2496,-75.5774,8166728,21-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,1
+8.6395,-72.7359,7914008,21-Apr-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Norte de Santander,0
+5.6922,-76.658,7914005,20-Apr-21,Violence against civilians,Attack,Gulf Clan,Civilians (Colombia),Choco,1
+10.4605,-73.2594,7914168,20-Apr-21,Violence against civilians,Abduction/forced disappearance,ELN,Civilians (Colombia),Cesar,0
+8.556,-74.2631,7914191,20-Apr-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Bolivar,1
+6.7971,-71.7686,8166726,20-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Arauca,1
+5.6922,-76.658,8166727,20-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Choco,1
+2.8008,-76.55,8533736,20-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+3.4376,-76.519,8546773,20-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+8.1704,-76.0597,8166722,19-Apr-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Cordoba,0
+9.4025,-75.6813,7914000,19-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Sucre,0
+2.1782,-73.7871,7914001,19-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Meta,1
+11.2294,-74.1909,7914002,19-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Magdalena,1
+1.8071,-78.7639,7914003,19-Apr-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Narino,1
+5.1539,-76.6852,7914188,19-Apr-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Choco,1
+6.9539,-71.8723,8533737,18-Apr-21,Violence against civilians,Abduction/forced disappearance,FARC Dissident - 10th Front,Civilians (Colombia),Arauca,0
+5.3719,-76.6086,8266816,18-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Choco,1
+2.4638,-77.2356,7913998,17-Apr-21,Battles,Armed clash,FARC Dissident - Carlos Patino Front,Military Forces of Colombia (2018-),Cauca,4
+2.8964,-72.1356,7914074,17-Apr-21,Violence against civilians,Sexual violence,Unidentified Armed Group (Colombia),Civilians (Colombia),Meta,0
+8.6395,-72.7359,7914356,17-Apr-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Norte de Santander,1
+3.2531,-76.2289,8266815,16-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+8.6395,-72.7359,8430527,15-Apr-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+2.1658,-74.2745,7877091,15-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Meta,1
+10.5141,-74.1913,7877218,15-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Magdalena,1
+2.1782,-73.7871,7877243,15-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Meta,1
+2.7856,-76.5186,7877242,14-Apr-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Cauca,0
+2.5224,-75.3154,8068097,13-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Huila,1
+7.9774,-75.1983,7877090,13-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,1
+10.9799,-74.8013,7877215,13-Apr-21,Violence against civilians,Abduction/forced disappearance,Los Rastrojos Gang,Civilians (Colombia),Atlantico,0
+10.9799,-74.8013,7877216,13-Apr-21,Battles,Armed clash,Los Rastrojos Gang,Military Forces of Colombia (2018-),Atlantico,0
+10.4605,-73.2594,7877217,13-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cesar,1
+8.6039,-73.2293,7877086,12-Apr-21,Violence against civilians,Abduction/forced disappearance,ELN,Civilians (Colombia),Norte de Santander,0
+7.1906,-75.4342,7877087,12-Apr-21,Violence against civilians,Attack,ELN,Civilians (Colombia),Antioquia,0
+10.8291,-75.0347,7877088,12-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (International),Atlantico,1
+9.2018,-73.541,7877220,12-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cesar,2
+4.3145,-72.0831,7877244,12-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Meta,1
+8.3609,-72.4103,7877391,12-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Venezuela),Norte de Santander,1
+1.3099,-77.6069,7877085,11-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Venezuela),Narino,2
+11.0067,-74.2413,7877161,11-Apr-21,Explosions/Remote violence,Grenade,Unidentified Armed Group (Colombia),Civilians (Colombia),Magdalena,0
+8.1704,-76.0597,7877219,11-Apr-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Cordoba,0
+2.8782,-76.5624,7877241,11-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,2
+8.6395,-72.7359,7877392,11-Apr-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Norte de Santander,0
+5.712,-77.2629,7913996,11-Apr-21,Violence against civilians,Attack,Gulf Clan,Civilians (Colombia),Choco,2
+1.3354,-77.5945,7877084,10-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Narino,2
+10.3917,-75.4824,7877248,10-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Bolivar,1
+8.4666,-74.535,7877251,09-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Sucre,1
+7.8939,-72.5078,7877387,09-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+8.9983,-72.8997,7877388,09-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,2
+8.3609,-72.4103,7877394,09-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+8.9288,-75.0256,7805635,08-Apr-21,Violence against civilians,Attack,Private Security Forces (Colombia),Civilians (Colombia),Sucre,0
+2.9261,-76.4637,7805637,08-Apr-21,Battles,Armed clash,Military Forces of Colombia (2018-),Unidentified Armed Group (Colombia),Cauca,0
+8.4905,-72.6397,7877386,08-Apr-21,Battles,Armed clash,ELN,Police Forces of Colombia (2018-),Norte de Santander,0
+8.5768,-73.0948,7877393,08-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+2.8916,-76.5529,7805513,07-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,4
+7.0747,-75.1483,7805507,06-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,1
+7.0003,-76.263,7805509,06-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,1
+2.6489,-75.6363,7805510,06-Apr-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Dagoberto Ramos,Huila,1
+10.4605,-73.2594,7805512,06-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cesar,0
+8.4167,-73.3401,7805585,06-Apr-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,0
+11.1427,-74.1169,7805611,06-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Magdalena,0
+3.0341,-76.4085,7805636,06-Apr-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Cauca,0
+8.3148,-72.4863,7810542,06-Apr-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Norte de Santander,1
+7.8194,-72.4543,7877083,06-Apr-21,Battles,Armed clash,ELN,El Tren de Aragua Gang,Norte de Santander,1
+2.3247,-73.3459,8606959,06-Apr-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Gentil Duarte Front,Guaviare,1
+1.4828,-78.6511,7805586,05-Apr-21,Violence against civilians,Attack,FARC Dissident - Ivan Rios,Civilians (Colombia),Narino,1
+11.2294,tbc,7805612,05-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Magdalena,0
+3.5905,-75.3831,7805621,05-Apr-21,Violence against civilians,Attack,FARC Dissident - Ismael Ruiz Front,Civilians (Colombia),Tolima,1
+8.6357,-72.6938,7810428,05-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+8.4905,-72.6397,7810532,05-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,2
+8.9983,-72.8997,7810665,05-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+3.065,-76.3535,7805505,03-Apr-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-) UNP,Cauca,1
+2.3894,-75.8926,7805506,03-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Huila,3
+1.8071,-78.7639,7805631,03-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Narino,1
+8.6395,-72.7359,7810656,03-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,2
+3.4376,-76.519,8549625,02-Apr-21,Violence against civilians,Attack,Police Forces of Colombia (2018-),Civilians (Colombia),Valle del Cauca,0
+3.7279,-75.6403,7805503,01-Apr-21,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Colombia),Civilians (Colombia),Tolima,0
+1.2129,-77.9954,7805591,01-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Narino,0
+2.1198,-74.7673,8606679,01-Apr-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Caqueta,1
+11.7146,-72.2648,7791351,31-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),La Guajira,1
+8.6395,-72.7359,7810657,31-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+1.8071,-78.7639,8068102,31-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Narino,2
+1.6179,-75.6086,7791348,30-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Caqueta,1
+2.4776,-78.1098,7791344,29-Mar-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Narino,2
+3.3239,-76.2345,7791345,29-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,1
+7.1653,-75.4392,7791347,29-Mar-21,Violence against civilians,Attack,ELN,Civilians (Colombia),Antioquia,0
+7.9382,-72.6047,7791683,29-Mar-21,Battles,Armed clash,Military Forces of Colombia (2018-),EPL,Norte de Santander,2
+1.4169,-78.4329,7791338,28-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Narino,2
+8.1704,-76.0597,7791339,28-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cordoba,1
+2.9515,-76.2711,7791340,28-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+3.1859,-76.6734,7791342,28-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,3
+2.3476,-78.3256,7791471,28-Mar-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Narino,0
+1.8555,-78.3711,7791473,28-Mar-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Narino,0
+1.7653,-78.1811,7791475,28-Mar-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Narino,0
+4.7588,-75.9423,7791335,27-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,4
+6.7441,-76.3675,7791336,27-Mar-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,0
+8.3609,-72.4103,7810409,27-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+3.1738,-76.2613,7767156,26-Mar-21,Explosions/Remote violence,Remote explosive/landmine/IED,FARC Dissident - Dagoberto Ramos,Civilians (Colombia),Cauca,0
+2.7981,-76.4844,7767351,26-Mar-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Cauca,0
+3.0341,-76.4085,7767352,26-Mar-21,Battles,Armed clash,FARC Dissident - Dagoberto Ramos,Military Forces of Colombia (2018-),Cauca,0
+2.4638,-77.2356,7791325,26-Mar-21,Battles,Armed clash,FARC Dissident - Carlos Patino Front,Military Forces of Colombia (2018-),Cauca,3
+3.065,-76.3535,7791326,26-Mar-21,Battles,Armed clash,FARC Dissident - Dagoberto Ramos,Police Forces of Colombia (2018-),Cauca,1
+2.3161,-78.3118,7791331,26-Mar-21,Battles,Armed clash,FARC Dissident - Alfonso Cano Front,FARC Dissident - Franco Benavides Mobile Column,Narino,5
+8.5876,-73.8399,7791332,26-Mar-21,Battles,Armed clash,ELN,Gulf Clan,Bolivar,0
+10.4605,-73.2594,7791333,26-Mar-21,Battles,Armed clash,Military Forces of Colombia (2018-),Military Forces of Colombia (2018-),Cesar,0
+3.3839,-74.0437,7767349,25-Mar-21,Violence against civilians,Abduction/forced disappearance,FARC Dissident,Civilians (Colombia),Meta,0
+1.3312,-75.9736,7791330,24-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Caqueta,5
+4.1706,-76.1664,7767337,23-Mar-21,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,0
+0.505,-76.4973,7791329,23-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Putumayo,1
+8.5106,-73.4467,7767151,22-Mar-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Norte de Santander,1
+2.5492,-76.0635,7767152,22-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,1
+11.3783,-72.2419,7791432,21-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Venezuela),La Guajira,1
+7.9738,-75.4168,7877082,21-Mar-21,Violence against civilians,Attack,Gulf Clan,Civilians (Colombia),Cordoba,1
+3.0161,-76.4854,7767346,20-Mar-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Cauca,0
+8.6395,-72.7359,7767355,20-Mar-21,Explosions/Remote violence,Remote explosive/landmine/IED,ELN,Civilians (Colombia),Norte de Santander,0
+8.1928,-72.4953,7810531,20-Mar-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Norte de Santander,0
+8.2475,-73.3558,8047095,19-Mar-21,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,0
+8.9288,-75.0256,7755990,18-Mar-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Sucre,1
+2.9515,-76.2711,7756333,18-Mar-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Cauca,0
+8.9983,-72.8997,7810423,18-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,2
+0.6221,-76.9186,7755988,17-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Putumayo,2
+2.7981,-76.4844,7755985,16-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,3
+4.5855,-74.2145,7756331,16-Mar-21,Violence against civilians,Sexual violence,Police Forces of Colombia (2018-),Civilians (Colombia),Cundinamarca,0
+8.4905,-72.6397,7810412,16-Mar-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Norte de Santander,0
+6.7776,-76.132,7756264,15-Mar-21,Battles,Armed clash,Gulf Clan,ELN,Antioquia,0
+3.2623,-76.5425,7756330,15-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Valle del Cauca,2
+8.5403,-74.6301,7756343,15-Mar-21,Battles,Armed clash,Gulf Clan,Los Caparros Gang,Sucre,1
+2.3992,-78.1901,7791324,15-Mar-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Narino,0
+8.0818,-73.2217,7810507,15-Mar-21,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,0
+2.4638,-77.2356,7755981,14-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Cauca,2
+7.5801,-75.4014,7756265,14-Mar-21,Violence against civilians,Attack,Los Caparros Gang,Civilians (Colombia),Antioquia,1
+4.0459,-76.1135,7756263,13-Mar-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Valle del Cauca,0
+7.065,-73.85,7756632,13-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Santander,0
+7.5783,-75.3524,7748404,12-Mar-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Unidentified Armed Group (Colombia),Antioquia,0
+6.9108,-75.9169,7748488,11-Mar-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Antioquia,1
+6.3035,-75.854,7748489,11-Mar-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Antioquia,0
+5.8998,-76.1422,7748215,09-Mar-21,Violence against civilians,Abduction/forced disappearance,Guardia Indigena (Colombia),Civilians (Colombia),Choco,0
+7.4886,-74.8671,7748493,09-Mar-21,Battles,Armed clash,Police Forces of Colombia (2018-),Gulf Clan,Antioquia,1
+8.4905,-72.6397,7810535,09-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Venezuela),Norte de Santander,1
+0.8592,-76.5801,7748211,07-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Putumayo,0
+8.0517,-76.1495,7748393,06-Mar-21,Battles,Armed clash,Unidentified Armed Group (Colombia),Police Forces of Colombia (2018-),Cordoba,0
+8.0818,-73.2217,7809424,06-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,5
+0.9062,-77.7923,7809425,06-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Narino,1
+7.8644,-72.7165,7810583,06-Mar-21,Battles,Armed clash,FARC Dissident,Military Forces of Colombia (2018-),Norte de Santander,0
+8.2475,-73.3558,7809423,05-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Norte de Santander,1
+7.724,-77.1421,7730833,04-Mar-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Choco,0
+7.021,-75.9103,7730929,04-Mar-21,Battles,Armed clash,FARC Dissident,Gulf Clan,Antioquia,0
+7.8644,-72.7165,7810624,04-Mar-21,Violence against civilians,Abduction/forced disappearance,FARC Dissident,Civilians (Colombia),Norte de Santander,0
+7.5801,-75.4014,7730759,03-Mar-21,Violence against civilians,Attack,Los Caparros Gang,Civilians (Colombia),Antioquia,1
+6.9777,-76.8175,7809421,03-Mar-21,Battles,Armed clash,ELN,Gulf Clan,Antioquia,0
+4.0295,-74.3147,7982872,03-Mar-21,Violence against civilians,Attack,FARC Dissident - Gentil Duarte Front,Civilians (Colombia),"Bogota, D.C.",1
+9.7895,-75.2693,7730757,02-Mar-21,Battles,Armed clash,Military Forces of Colombia (2018-),Gulf Clan,Bolivar,3
+1.9601,-72.6552,7748205,02-Mar-21,Battles,Armed clash,Military Forces of Colombia (2018-),FARC Dissident - Gentil Duarte Front,Guaviare,12
+7.5783,-75.3524,7791328,02-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Antioquia,2
+4.0295,-74.3147,7982871,02-Mar-21,Violence against civilians,Attack,FARC Dissident - Gentil Duarte Front,Civilians (Colombia),"Bogota, D.C.",2
+9.8966,-75.5736,7730755,01-Mar-21,Violence against civilians,Attack,Unidentified Armed Group (Colombia),Civilians (Colombia),Sucre,1
+8.3585,-72.4792,7810439,01-Mar-21,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Colombia),Military Forces of Colombia (2018-),Norte de Santander,0
+8.6395,-72.7359,7810658,01-Mar-21,Battles,Armed clash,ELN,Military Forces of Colombia (2018-),Norte de Santander,0
